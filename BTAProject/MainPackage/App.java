@@ -3,8 +3,15 @@ package BTAProject.MainPackage;
 import BTAProject.MainPackage.Model.ExamResult;
 import BTAProject.MainPackage.Service.AnalyzerService;
 
+/**
+ * Main application class for the Blood Test Analyzer.
+ */
 public class App {
 
+    /**
+     * The main method serves as the entry point for the application. It creates sample exam results, analyzes them using the AnalyzerService, and prints the results to the console.
+     * @param args
+     */
     public static void main(String[] args) {
         
         ExamResult hemoglobin = new ExamResult("Hemoglobin", 12, 17, 13);
