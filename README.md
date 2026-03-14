@@ -12,7 +12,6 @@ This project was created to practice **Java programming**, **object-oriented des
 
 - Blood test result analysis based on **reference ranges**
 - Automatic classification of results (`Low`, `Normal`, `High`)
-- **Object-oriented design** using classes
 - **Modular structure** separating logic and data models
 - Code documented using **Javadoc**
 
@@ -21,8 +20,6 @@ This project was created to practice **Java programming**, **object-oriented des
 # 🛠️ Technologies
 
 - **Java**
-- **Java Collections**
-- **Object-Oriented Programming (OOP)**
 - **Javadoc Documentation**
 
 ---
@@ -32,13 +29,13 @@ This project was created to practice **Java programming**, **object-oriented des
 Clone the repository:
 
 ```
-git clone https://github.com/guthspedro10/blood-test-analyzer.git
+git clone https://github.com/guthspedro10/Blood-Test-Analyzer.git
 ```
 
 Navigate to the project folder:
 
 ```
-cd blood-test-analyzer
+cd Blood-Test-Analyzer
 ```
 
 Compile the project:
@@ -90,7 +87,6 @@ Cholesterol: Normal
 This project was developed to:
 
 - Practice **Java programming**
-- Apply **object-oriented design**
 - Simulate **basic clinical laboratory data analysis**
 - Demonstrate handling of **structured biomedical data**
 - Reinforce **clean code organization using packages**
@@ -99,7 +95,6 @@ This project was developed to:
 
 # 📚 Possible Future Improvements
 
-- Add **more laboratory tests**
 - Implement **patient data and exam history**
 - Add **input validation**
 - Support **CSV file input**
@@ -110,4 +105,4 @@ This project was developed to:
 
 # 📌 Project Status
 
-🚧 **In Development** — Educational project focused on learning **Java** and **Biomedical Informatics concepts**.
+✅ **Completed** — Educational project focused on learning **Java** and **Biomedical Informatics concepts**.
