@@ -47,7 +47,7 @@ javac BTAProject/MainPackage/App.java
 Run the application:
 
 ```
-java BTAProject.MainPackage.App
+java src.App
 ```
 
 ---

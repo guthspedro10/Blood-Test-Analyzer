@@ -1,4 +1,4 @@
-package BTAProject.MainPackage.Model;
+package src.Model;
 
 /**
  * The ExamResult class represents the result of a blood test exam. It contains the name of the exam, the value obtained from the test, and the reference range (minimum and maximum values) for that exam. This class provides getter methods to access these properties.

@@ -1,7 +1,7 @@
-package BTAProject.MainPackage;
+package src;
 
-import BTAProject.MainPackage.Model.ExamResult;
-import BTAProject.MainPackage.Service.AnalyzerService;
+import src.Model.ExamResult;
+import src.Service.AnalyzerService;
 
 /**
  * Main application class for the Blood Test Analyzer.

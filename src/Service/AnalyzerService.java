@@ -1,6 +1,6 @@
-package BTAProject.MainPackage.Service;
+package src.Service;
 
-import BTAProject.MainPackage.Model.ExamResult;
+import src.Model.ExamResult;
 /**
  * The AnalyzerService class provides functionality to analyze blood test results. It contains a method that takes an ExamResult object and determines whether the result is "Low", "High", or "Normal" based on the reference values provided in the ExamResult.
  */
