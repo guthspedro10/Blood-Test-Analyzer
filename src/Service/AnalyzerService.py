@@ -1,8 +1,8 @@
 def analyzer(exam):
     if exam.value > exam.maxReference:
-        return print("High")
+        return "High"
 
     if exam.minReference > exam.value:
-        return print("Low")
+        return "Low"
 
-    return print("Normal")
+    return "Normal"
